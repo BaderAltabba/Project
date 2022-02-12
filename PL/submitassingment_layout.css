@@ -1,0 +1,130 @@
+body{
+   background-image:url(BLUE.png);
+}
+
+.A{
+
+ background-color: rgba(72,110,204,0.8);
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ position: fixed;
+ top: 0;
+ width: 100%;
+ right: 0;
+ border-bottom-left-radius: 10px;
+
+}
+
+.B{
+    float: left;
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family:Bahnschrift;
+    font-size: 40px;
+}
+.C{
+float: Right;
+    display: block;
+    color: #F6FEFD;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    background-color: #F6FEFD;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-right: 20px;
+
+}
+.D{
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Arial Black";
+  color: #486ECC;
+
+}
+.C:hover{
+ background-color: #92EDE9;
+}
+.D:hover{
+     color: #F6FEFD;
+}
+.E{
+    font-family:"Arial Black";
+    font-size: 25px;
+     color: #486ECC;
+}
+.F{
+    border: #486ECC 2px solid;
+    border-radius: 8px;
+    padding: 5px;
+      color: #486ECC;
+}
+.I{
+  background-color: #F6FEFD;
+  padding: 30px;
+  border: 3px solid #486ECC;
+  border-radius: 8px;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-top: 120px;
+}
+.G::-webkit-file-upload-button{
+    visibility: hidden;
+}
+
+.G::before{
+ content: 'Browse';
+ display: inline-block;
+ border: #486ECC 2px solid;
+ border-radius: 8px;
+ padding: 5px 8px;
+ outline: none;
+ white-space: nowrap;
+ cursor: pointer;
+  font-size: 15px;
+  font-family:"Arial Black";
+  color: #486ECC;
+}
+.H{
+border: #486ECC 2px solid;
+font-size: 20px;
+  font-family:"Arial Black";
+  color: #486ECC;
+  border-radius: 8px;
+ padding: 5px 8px;
+ background-color:#F6FEFD;
+ cursor: pointer;
+
+}
+.H:hover{
+  background-color: #92EDE9;
+  color: #F6FEFD;
+}
+.J{
+    background-color: #F6FEFD;
+    width:170px;
+    height: 50px;
+    position: absolute;
+    left: 47%;
+    bottom: 26%;
+}
+.K{
+    text-decoration: none;
+  font-size: 20px;
+  font-family: "Arial Black";
+  color: #F6FEFD;
+  position: absolute;
+  left:0%;
+  background-color:#486ECC;
+  padding: 20px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.K:hover{
+     background-color: #92EDE9;
+}

@@ -1,0 +1,132 @@
+body{
+    background-image:url(BLUE.png);
+}
+
+.A{
+
+ background-color: rgba(72,110,204,0.8);
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ position: fixed;
+ top: 0;
+ width: 100%;
+ right: 0;
+ border-bottom-left-radius: 10px;
+
+}
+
+.B{
+    float: left;
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family:Bahnschrift;
+    font-size: 40px;
+}
+.C{
+float: Right;
+    display: block;
+    color: #F6FEFD;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    background-color: #F6FEFD;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-right: 20px;
+
+}
+.D{
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Arial Black";
+  color: #486ECC;
+
+}
+.C:hover{
+ background-color: #92EDE9;
+}
+.D:hover{
+     color: #F6FEFD;
+}
+.F{
+   text-align: center;
+ color:#486ECC;
+  font-family: "Arial Black";
+  border:none;
+  background-color: #F6FEFD;
+  margin-left: 13px;
+  margin-right: 8px;
+  margin-top: 10px;
+  font-size: 35px;
+  border-radius: 8px;
+  padding: 5px;
+  padding-left: 13px;
+  padding-right: 15px;
+}
+.I{
+ text-align: center;
+   background-color:#486ECC;
+  margin-top: 50px;
+  margin-left: 495px;
+  margin-right: 495px;
+   margin-bottom: 50px;
+  padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 35px;
+   border-radius: 11px;
+
+
+}
+.E{
+     list-style-type: none;
+
+
+
+}
+
+.G{
+    text-decoration: none;
+      text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color:#F6FEFD;
+    border-radius: 8px;
+    color: #486ECC;
+    font-size: 20px;
+    font-family: "Arial Black";
+}
+
+.G:hover{
+ background-color: #09214E;;
+  color: #F6FEFD;
+}
+
+.H{
+    text-align: center;
+}
+h1{
+font-family: Bahnschrift;
+color:#F6FEFD;
+position: relative;
+left: 2%;
+background-color:#486ECC;
+padding-left: 15px;
+padding-right: 0px;
+padding-bottom: 10px;
+padding-top: 10px;
+margin-right: 870px;
+border-radius: 8px;
+}
+h1:hover{
+  color:#29CBD6;
+}
+

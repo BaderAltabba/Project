@@ -1,0 +1,104 @@
+body{
+   background-image: url(RED.png);
+}
+
+.A{
+
+ background-color: rgba(204,0,0,0.8);
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ position: fixed;
+ top: 0;
+ width: 100%;
+ right: 0;
+ border-bottom-left-radius: 10px;
+
+}
+
+.B{
+    float: left;
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family:Bahnschrift;
+    font-size: 40px;
+}
+.C{
+float: Right;
+    display: block;
+    color: #FFF8E5;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    background-color: #FFF8E5;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-right: 20px;
+
+}
+.D{
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Arial Black";
+  color: #CC0000;
+
+
+}
+.C:hover{
+ background-color: #FF4D4D;
+}
+.D:hover{
+     color: #FFF8E5;
+}
+.K{
+    text-decoration: none;
+  font-size: 20px;
+  font-family: "Arial Black";
+  color: #FFF8E5;
+  position: absolute;
+  left:0%;
+  background-color:#CC0000;
+  padding: 20px;
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.K:hover{
+     background-color: #FF4D4D;
+}
+.I{
+  background-color: #FFF8E5;
+  padding: 30px;
+  border: 3px solid #CC0000;
+  border-radius: 8px;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-top: 120px;
+}
+.E{
+    font-family:"Arial Black";
+    font-size: 25px;
+     color: #CC0000;}
+.F{
+    border: #CC0000 2px solid;
+    border-radius: 8px;
+    padding: 5px;
+      color: #CC0000;
+}
+.H{
+border: #CC0000 2px solid;
+font-size: 20px;
+  font-family:"Arial Black";
+  color: #CC0000;
+  border-radius: 8px;
+ padding: 5px 8px;
+ background-color:#FFF8E5;
+
+}
+.H:hover{
+  background-color: #FF4D4D;
+  color: #FFF8E5;
+}

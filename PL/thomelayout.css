@@ -1,0 +1,132 @@
+body{
+    background-image: url(RED.png);
+}
+
+.A{
+
+ background-color: rgba(204,0,0,0.8);
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ position: fixed;
+ top: 0;
+ width: 100%;
+ right: 0;
+ border-bottom-left-radius: 10px;
+
+}
+
+.B{
+    float: left;
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family:Bahnschrift;
+    font-size: 40px;
+    bottom: 15px;
+
+}
+
+
+.C{
+float: Right;
+    display: block;
+    color: #FFF8E5;
+    text-align: center;
+    padding: 10px 12px;
+    text-decoration: none;
+    background-color: #FFF8E5;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-right: 20px;
+
+}
+.D{
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Arial Black";
+  color: #CC0000;
+
+}
+.C:hover{
+ background-color: #FF4D4D;
+}
+.D:hover{
+     color: #FFF8E5;
+}
+.F{
+   text-align: center;
+ color:#CC0000;
+  font-family: "Arial Black";
+  border:none;
+  background-color: #FFF8E5;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+  font-size: 35px;
+  border-radius: 8px;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.I{
+ text-align: center;
+   background-color:#CC0000;
+  margin-top: 50px;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-bottom: 50px;
+  padding-bottom: 20px;
+    padding-top: 20px;
+    padding-right: 35px;
+   border-radius: 11px;
+   position: relative;
+
+
+}
+.E{
+     list-style-type: none;
+
+}
+
+.G{
+    text-decoration: none;
+      text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color:#FFF8E5;
+    border-radius: 8px;
+    color: #CC0000;
+    font-size: 20px;
+    font-family: "Arial Black";
+   
+
+}
+
+.G:hover{
+ background-color: #FF4D4D;
+  color: #FFF8E5;
+}
+h1{
+font-family: Bahnschrift;
+color:#FFF8E5;
+position: relative;
+left: 2%;
+background-color:#FF4D4D;
+padding-left: 15px;
+padding-right: 0px;
+padding-bottom: 10px;
+padding-top: 10px;
+margin-right: 830px;
+border-radius: 8px;
+}
+h1:hover{
+  color: #CC0000;
+}

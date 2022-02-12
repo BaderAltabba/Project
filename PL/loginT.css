@@ -1,0 +1,118 @@
+@font-face{
+    font-family:ABeeZee-Regular ;
+    src: url(Fonts/ABeeZee-Regular.ttf);
+}
+@font-face{
+    font-family:Montserrat-Medium ;
+    src: url(Fonts/Montserrat-Medium.ttf);
+}
+img{
+width: 250px;
+height: 150px;
+}
+
+body {
+
+
+ background-image: url(37_379993_px_exam_wallpapers_4wc76kt_teacher_things_in_school.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: 100% 100%;
+
+}
+.E{
+   border: 3px solid #FFF8E5;
+
+   border-radius: 10px;padding-bottom: 20px;
+ padding-top: 20px;
+ padding-left: 50px;
+ margin-right: 500px;
+ margin-left: 480px;
+
+ font-family:ABeeZee-Regular;
+   background-color:rgba(30, 158, 16, 0.8);
+}
+.E1{
+    color:#940000;
+    font-weight: bold;
+}
+
+.C{
+
+ margin-left: 35px;
+ background-color: #FFF8E5;
+ background-color: rgba(255, 248, 229, 1);
+ border: none;
+ font-family:Montserrat-Medium;
+ font-size: 40px;
+ color: #48CC2A;
+ padding: 10px 20px;
+ border-radius: 8px;
+ text-align: center;
+
+}
+
+
+.A{
+  color: #FFF8E5;
+  margin-left: 15px;
+  font-size: 30px;
+   font-family:ABeeZee-Regular;
+}
+.B{
+ margin-left: 20px;
+ background-color: #FFF8E5;
+ border: none;
+ font-family: ABeeZee-Regular;
+ color:  #2ACC30;;
+ padding: 8px 20px;
+ border-radius: 8px;
+ text-align: center;
+}
+.B:hover{
+ background-color: #1A7F1D ;
+ color:#FFF8E5;
+}
+.BR{
+ margin-left: 18px;
+ background-color: #FFF8E5;
+ border: none;
+ font-family: ABeeZee-Regular;
+ color:  #2ACC30;;
+ padding: 8px 20px;
+ border-radius: 8px;
+ text-align: center;
+}
+.BR:hover{
+ background-color: #CC0004 ;
+ color:#FFF8E5;
+}
+.BP{
+ font-family: ABeeZee-Regular;
+ font-size: 20px;
+ color:  #35D438;
+ text-align:center;
+}
+.BP:hover{
+    color:#FFFFFF;
+}
+.BP1{
+ font-family: ABeeZee-Regular;
+ font-size: 20px;
+ color:  #FF3838;
+ text-align:center;
+}
+.BP1:hover{
+    color:#FFFFFF;
+}
+
+.D{
+     margin-left: 20px;
+ background-color: #FFF8E5;
+   border: none;
+ font-family:ABeeZee-Regular;
+ font-size: 20px;
+  border-radius: 8px;
+}
+
+
